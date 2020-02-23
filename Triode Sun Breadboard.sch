@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "Triode Sun Breadboard Edition"
 Date "2020-02-23"
-Rev "r01"
+Rev "r02"
 Comp "Nuclear Lighthouse Studios"
 Comment1 "CC BY-SA"
 Comment2 ""
